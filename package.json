@@ -1,0 +1,18 @@
+{
+  "name": "fp-strukdat",
+  "version": "1.0.0",
+  "description": "Final project mata kuliah Struktur Data I081 oleh kelompok 11",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "queue-watcher": "node src/queue-watcher.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console-table-printer": "^2.11.2",
+    "enquirer": "^2.4.1"
+  }
+}
